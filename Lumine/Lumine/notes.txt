@@ -1,0 +1,2 @@
+﻿wwwroot folder has all the static content
+so it has the content that

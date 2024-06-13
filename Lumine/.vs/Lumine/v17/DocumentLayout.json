@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Lumine\\Lumine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C630DB-ED75-41ED-8CA9-D5CC5BBAA4FE}|Lumine\\Lumine.csproj|c:\\users\\hazem\\onedrive\\documents\\github\\lumine\\lumine\\lumine\\notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D5C630DB-ED75-41ED-8CA9-D5CC5BBAA4FE}|Lumine\\Lumine.csproj|solutionrelative:lumine\\notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C630DB-ED75-41ED-8CA9-D5CC5BBAA4FE}|Lumine\\Lumine.csproj|c:\\users\\hazem\\onedrive\\documents\\github\\lumine\\lumine\\lumine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5C630DB-ED75-41ED-8CA9-D5CC5BBAA4FE}|Lumine\\Lumine.csproj|solutionrelative:lumine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "notes.txt",
+              "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Lumine\\Lumine\\Lumine\\notes.txt",
+              "RelativeDocumentMoniker": "Lumine\\notes.txt",
+              "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Lumine\\Lumine\\Lumine\\notes.txt",
+              "RelativeToolTip": "Lumine\\notes.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-13T15:29:54.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Lumine\\Lumine\\Lumine\\Program.cs",
+              "RelativeDocumentMoniker": "Lumine\\Program.cs",
+              "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Lumine\\Lumine\\Lumine\\Program.cs",
+              "RelativeToolTip": "Lumine\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:29:11.065Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

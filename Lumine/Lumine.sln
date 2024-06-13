@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LumineWeb", "Lumine\LumineWeb.csproj", "{D5C630DB-ED75-41ED-8CA9-D5CC5BBAA4FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5C630DB-ED75-41ED-8CA9-D5CC5BBAA4FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5C630DB-ED75-41ED-8CA9-D5CC5BBAA4FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5C630DB-ED75-41ED-8CA9-D5CC5BBAA4FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5C630DB-ED75-41ED-8CA9-D5CC5BBAA4FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B682D308-8620-4BB1-956D-9A72918E12E6}
+	EndGlobalSection
+EndGlobal
