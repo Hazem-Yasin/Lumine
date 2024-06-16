@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LumineWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf97051c1284bd9d140875ba237012944791ac58")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a98fc841ccb0baed1e867f3454411ddfd6fd726")]
 [assembly: System.Reflection.AssemblyProductAttribute("LumineWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LumineWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

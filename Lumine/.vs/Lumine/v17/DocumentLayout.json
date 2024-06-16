@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Lumine\\Lumine\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D5C630DB-ED75-41ED-8CA9-D5CC5BBAA4FE}|Lumine\\Lumine.csproj|c:\\users\\hazem\\onedrive\\documents\\github\\lumine\\lumine\\lumine\\notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{D5C630DB-ED75-41ED-8CA9-D5CC5BBAA4FE}|Lumine\\Lumine.csproj|solutionrelative:lumine\\notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{D5C630DB-ED75-41ED-8CA9-D5CC5BBAA4FE}|Lumine\\LumineWeb.csproj|c:\\users\\hazem\\onedrive\\documents\\github\\lumine\\lumine\\lumine\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D5C630DB-ED75-41ED-8CA9-D5CC5BBAA4FE}|Lumine\\LumineWeb.csproj|solutionrelative:lumine\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5C630DB-ED75-41ED-8CA9-D5CC5BBAA4FE}|Lumine\\Lumine.csproj|c:\\users\\hazem\\onedrive\\documents\\github\\lumine\\lumine\\lumine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5C630DB-ED75-41ED-8CA9-D5CC5BBAA4FE}|Lumine\\Lumine.csproj|solutionrelative:lumine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5C630DB-ED75-41ED-8CA9-D5CC5BBAA4FE}|Lumine\\LumineWeb.csproj|c:\\users\\hazem\\onedrive\\documents\\github\\lumine\\lumine\\lumine\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5C630DB-ED75-41ED-8CA9-D5CC5BBAA4FE}|Lumine\\LumineWeb.csproj|solutionrelative:lumine\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C630DB-ED75-41ED-8CA9-D5CC5BBAA4FE}|Lumine\\LumineWeb.csproj|c:\\users\\hazem\\onedrive\\documents\\github\\lumine\\lumine\\lumine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5C630DB-ED75-41ED-8CA9-D5CC5BBAA4FE}|Lumine\\LumineWeb.csproj|solutionrelative:lumine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,28 +31,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "notes.txt",
-              "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Lumine\\Lumine\\Lumine\\notes.txt",
-              "RelativeDocumentMoniker": "Lumine\\notes.txt",
-              "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Lumine\\Lumine\\Lumine\\notes.txt",
-              "RelativeToolTip": "Lumine\\notes.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-06-13T15:29:54.714Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Lumine\\Lumine\\Lumine\\appsettings.json",
+              "RelativeDocumentMoniker": "Lumine\\appsettings.json",
+              "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Lumine\\Lumine\\Lumine\\appsettings.json",
+              "RelativeToolTip": "Lumine\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-15T15:42:05.291Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Lumine\\Lumine\\Lumine\\Program.cs",
               "RelativeDocumentMoniker": "Lumine\\Program.cs",
               "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Lumine\\Lumine\\Lumine\\Program.cs",
               "RelativeToolTip": "Lumine\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAkwBMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T15:29:11.065Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-15T15:32:44.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Lumine\\Lumine\\Lumine\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Lumine\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Lumine\\Lumine\\Lumine\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Lumine\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T15:26:55.863Z"
             }
           ]
         }
