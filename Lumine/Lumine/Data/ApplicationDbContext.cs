@@ -1,5 +1,6 @@
 ﻿//added ef core to refrence DbContext
 
+using LumineWeb.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace LumineWeb.Data
@@ -12,6 +13,8 @@ namespace LumineWeb.Data
 
 
         }
+
+        public DbSet<Category> Categories { get; set; }
 
     }
 }
