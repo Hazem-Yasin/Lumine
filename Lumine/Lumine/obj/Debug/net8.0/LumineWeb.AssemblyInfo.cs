@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("10780484-cc05-4d95-82f6-973c40f01300")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("LumineWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af1af8c97711f5d5d55c5c60124aa825cc43f11b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf6aece2e1cbda98f443ef00119c783f500b759f")]
 [assembly: System.Reflection.AssemblyProductAttribute("LumineWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LumineWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
