@@ -1,10 +1,9 @@
-﻿@model List<Category>
+﻿@using LumineWeb.Models
+@model List<Category>
 
 <h1>Category List</h1>
 
 <table class="table table-bordered table-striped">
-
-    
     <thead>
         <tr>
             <th>
@@ -15,12 +14,13 @@
             </th>
         </tr>
     </thead>
-
     <tbody>
+        @foreach(var obj in Model)
+        {
         <tr>
             <td>Name</td>
             <td>DisplayOrder</td>
         </tr>
+        }
     </tbody>
-
 </table>
