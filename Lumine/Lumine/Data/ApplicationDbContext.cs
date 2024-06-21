@@ -1,5 +1,4 @@
 ﻿//added ef core to refrence DbContext
-
 using LumineWeb.Models;
 using Microsoft.EntityFrameworkCore;
 

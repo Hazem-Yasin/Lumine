@@ -17,4 +17,5 @@ namespace LumineWeb.Controllers
             return View(objCategoryList);
         }
     }
+
 }
