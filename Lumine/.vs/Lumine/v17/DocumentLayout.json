@@ -63,8 +63,7 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-15T15:26:55.863Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -74,7 +73,7 @@
               "RelativeDocumentMoniker": "Lumine\\Controllers\\CategoryController.cs",
               "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Lumine\\Lumine\\Lumine\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "Lumine\\Controllers\\CategoryController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-17T17:52:26.422Z",
               "IsPinned": true,
@@ -91,8 +90,7 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-06-20T16:25:16.976Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -105,16 +103,7 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-15T15:32:44.4Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -126,8 +115,7 @@
               "RelativeToolTip": "Lumine\\Views\\Category\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-20T05:25:04.099Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T05:25:04.099Z"
             },
             {
               "$type": "Document",
@@ -139,8 +127,7 @@
               "RelativeToolTip": "Lumine\\LumineWeb.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-19T23:05:15.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T23:05:15.112Z"
             },
             {
               "$type": "Document",
@@ -152,8 +139,7 @@
               "RelativeToolTip": "Lumine\\Migrations\\20240618014416_SeedCategoryTable.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T01:44:17.015Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T01:44:17.015Z"
             },
             {
               "$type": "Document",
@@ -165,8 +151,7 @@
               "RelativeToolTip": "Lumine\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-17T18:00:45.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-17T18:00:45.493Z"
             },
             {
               "$type": "Document",
@@ -178,8 +163,7 @@
               "RelativeToolTip": "Lumine\\Migrations\\20240617172233_AddCategoryTableToDb.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T17:22:33.626Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-17T17:22:33.626Z"
             },
             {
               "$type": "Document",
@@ -191,8 +175,7 @@
               "RelativeToolTip": "Lumine\\Models\\Category.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T16:20:54.174Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-17T16:20:54.174Z"
             }
           ]
         }
